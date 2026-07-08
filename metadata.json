@@ -1,0 +1,10 @@
+{
+  "name": "Face, Hand & Activity Tracker",
+  "description": "Real-time face and hand landmarks detection and human activity recognition utilizing computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
