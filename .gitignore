@@ -16,3 +16,4 @@ dist/
 # Local environment
 .env
 .env.local
+
